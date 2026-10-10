@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/channelenvia/EloPeak-Launcher/releases/download/v0.1.0/Booster-Launcher-Setup-0.1.0.exe",
-  "notes": "Primeira versão."
+  "version": "0.1.1",
+  "url": "https://github.com/channelenvia/EloPeak-Launcher/releases/download/v0.1.1/Booster-Launcher-Setup-0.1.1.exe",
+  "notes": "Mostra a versão no app e registra o motivo de falha do login com Discord."
 }
