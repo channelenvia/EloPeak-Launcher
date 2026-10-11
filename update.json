@@ -1,6 +1,6 @@
 {
-  "version": "0.1.4",
-  "url": "https://github.com/channelenvia/EloPeak-Launcher/releases/download/v0.1.4/Booster-Launcher-Setup-0.1.4.exe",
-  "sha256": "b5735544f3ae7f87e960ef5ea85627c6db35703698a416942f8c662f54e56f1b",
-  "notes": "O launcher agora se chama EloPeak e não exibe mais o indicador da versão atual."
+  "version": "0.1.5",
+  "url": "https://github.com/channelenvia/EloPeak-Launcher/releases/download/v0.1.5/EloPeak-App-0.1.5.exe",
+  "sha256": "91a143502515ffb4fdd79349b76879382c947cf53a42d9cf9ed444fa35ecc2e5",
+  "notes": "O launcher agora identifica quando o token pertence a outro Discord e orienta entrar com a conta do booster atribuido."
 }
