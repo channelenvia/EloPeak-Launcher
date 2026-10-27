@@ -1,6 +1,1 @@
-{
-  "version": "0.1.5",
-  "url": "https://github.com/channelenvia/EloPeak-Launcher/releases/download/v0.1.5/EloPeak-App-0.1.5.exe",
-  "sha256": "91a143502515ffb4fdd79349b76879382c947cf53a42d9cf9ed444fa35ecc2e5",
-  "notes": "O launcher agora identifica quando o token pertence a outro Discord e orienta entrar com a conta do booster atribuido."
-}
+{ "version": "0.1.6", "url": "https://github.com/channelenvia/EloPeak-Launcher/releases/download/v0.1.6/EloPeak-App-0.1.6.exe", "sha256": "51353f3cf858e2ac25bef77744590b69b0a537554b89a6f5ace03da7d2730757", "notes": "Corrige o preenchimento de login/senha quando o Riot Client ainda nÃ£o estava aberto." }
